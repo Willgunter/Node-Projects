@@ -1,2 +1,2 @@
-# Node-Projects
+# Informational Node site
 no
